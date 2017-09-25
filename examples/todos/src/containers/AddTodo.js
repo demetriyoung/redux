@@ -19,7 +19,7 @@ let AddTodo = ({ dispatch }) => {
           input = node
         }} />
         <button type="submit">
-          Add Todo
+          Add Todo BRO!!!
         </button>
       </form>
     </div>
